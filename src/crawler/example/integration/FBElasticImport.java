@@ -14,14 +14,14 @@ public class FBElasticImport {
     static String elasticPort = "9200" ;
     static String elasticIndex = "hahagithubtry";
     static String elasticIndexType = "data";
-    static String pageName = "ETtoday";
+    static String pageName = "crazyck101";
     // 2017-09-02
     static long start = 1512086400;
     // 往前抓抓取日期數
     static int days = 10;
     // 每日抓取文章上限 (上限1000)
     static int maxPosts = 10;
-    static String access_token = "EAACEdEose0cBAN5NfNyyiEX9yLhi91ZCnVdOZA5QyZBj28563Gc0j0u2VrLGSFeOtLzJ6ggJvZCPwfRXkNEViFz2MVaY8e1mvOJaPTrdORUZAMfOtur741qh9pGP0wCZAESGVllVcSVsepGOSqUpIZCWTz1JnhiaPhffZAFKXs2hMbZCRepiw9LZBJ1AgEArA7f21ZAapoQJZBoXxIZBhucTgF3jHeggXloBpR6MZD";
+    static String access_token = "EAACEdEose0cBACQpzw9ZBESzjnSZB7STvUNBUoqRK8K3ZCkSCXDR5Dtx0ZC8nDWtOFaEfcZBQQu48hCfcxgyq0ebUxNuv46zXsPKZAYAju5wmzkbYCn85R4jNQUKrBAsV9BdnTrnX0Kv0x98OGa5veIrg6QKcesNcuXC0yQFbaGNjPhkLHZAZCIwZCiHeNZCfsjg3636wKZChA441qj27fEdPvbO1lBjtz764oZD";
 
     public static void main(String[] args) {
 
